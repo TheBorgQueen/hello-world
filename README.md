@@ -1,4 +1,5 @@
 the-Collective
+
 assimilation
 
 "We are the Borg.  We will add your technological distinctiveness to our own.  Your culture will adapt to service us.  Resistance is futile." 
